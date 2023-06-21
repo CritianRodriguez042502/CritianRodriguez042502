@@ -36,6 +36,7 @@
 - 🏠 Always learning new things in this beautiful world of development
 <!--Intro end-->
 
+
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -43,7 +44,8 @@
   </ul>
 </div>
 
-<div style= "margin-top:20px" align="center">
+
+<div style= "margin-top:20px" >
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
  <code> <img width="25%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> <img width="25%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> <img width="25%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> <br>
