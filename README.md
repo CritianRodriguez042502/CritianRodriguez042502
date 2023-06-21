@@ -46,11 +46,14 @@
 <div align="center">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code> <br>
+ <code> <img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> <img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> <img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> <br>
+
+
+ <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code></code><code>
 <img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code><code>
-<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code><code>
+<code></code><code>
+<br /><code></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code><code>
 <img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> 
 </div>
 
