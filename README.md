@@ -39,7 +39,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block;font-size:32px;font-weight:bold;">** technologies **</h2></summary>
+    <summary><h2 style="display: inline-block;font-size:50px;font-weight:bold;">// TECHNOLOGIES //</h2></summary>
   </ul>
 </div>
 
