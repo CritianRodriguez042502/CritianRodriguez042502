@@ -9,12 +9,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -53,5 +47,12 @@
 
  <img width="25%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> <img width="25%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> <img width="25%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <br/>
+</div>
+
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
 </div>
 
