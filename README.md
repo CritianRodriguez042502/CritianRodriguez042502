@@ -12,7 +12,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=full+stack+software+developer" alt="Typing SVG" /></a>
 </p>
 
-<div style="display: flex; justify-content:center;align-items: center;">
+<div align="center">
           <img src="https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbc8ece768495cc698ca_programador-senior.jpeg" alt="img" width="40%">
         </div>
 
