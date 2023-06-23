@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-          <img src="https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbc8ece768495cc698ca_programador-senior.jpeg" alt="img">
+          <img style="width:50%;" src="https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbc8ece768495cc698ca_programador-senior.jpeg" alt="img">
         </div>
 
 
