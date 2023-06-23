@@ -57,7 +57,7 @@
  <code> <img width="25%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> <img width="25%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> <img width="25%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> <br>
 
 
- <img width="25%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> <img width="25%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> <img width="25%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+ <img width="25%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> <img width="25%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> <img width="25%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
 <br/>
 </div>
 
