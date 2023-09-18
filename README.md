@@ -44,7 +44,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block;font-size:40px;font-weight:bold;"> ⚡ TECHNOLOGIES ⚡</h2></summary>
+    <summary><h2 style="display: inline-block;font-size:50px;font-weight:bold;"> ⚡ TECHNOLOGIES ⚡</h2></summary>
   </ul>
 </div>
 
@@ -52,6 +52,7 @@
 <div style= "padding-top:30px" align="center">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <code> <img width="30%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">  <img width="30%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
