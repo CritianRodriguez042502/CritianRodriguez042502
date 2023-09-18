@@ -49,9 +49,9 @@
 </div>
 
 
-<div style= "padding-top:20px" align="center">
+<div style= "padding-top:30px" align="center">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <code> <img width="25%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">  <img width="25%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+ <code> <img width="30%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">  <img width="30%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
 
 </div>
 
