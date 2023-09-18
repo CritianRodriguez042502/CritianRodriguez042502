@@ -33,8 +33,6 @@
 <!--Intro start-->
 - 💬 Currently with solid knowledge in web development both client and server side
 
-- 🌱 I am currently learning the Hyper Beast Stack for scalable applications.
-
 - ☁️ I have a great interest in cloud computing so I am learning **AWS**
 
 - 📫 Do not hesitate to contact me **cristianestiven1111@gmail.com**
@@ -46,7 +44,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block;font-size:50px;font-weight:bold;"> ⚡⚡⚡ / TECHNOLOGIES / ⚡⚡⚡</h2></summary>
+    <summary><h2 style="display: inline-block;font-size:50px;font-weight:bold;"> ⚡ TECHNOLOGIES ⚡</h2></summary>
   </ul>
 </div>
 
@@ -54,10 +52,9 @@
 <div style= "padding-top:20px" align="center">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
- <code> <img width="25%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> <img width="25%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> <img width="25%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> <br>
+ <code> <img width="25%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> <img width="25%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
 
-
- <img width="25%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> <img width="25%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> <img width="25%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> </code>
+ <img width="25%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> <img width="25%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 <br/>
 </div>
 
