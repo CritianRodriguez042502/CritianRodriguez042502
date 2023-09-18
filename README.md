@@ -53,8 +53,7 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <code> <img width="30%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">  <img width="30%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
 </div>
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+ 
 
 <!--- snake -->
 <div align="center">
