@@ -31,20 +31,20 @@
 
 
 <!--Intro start-->
-- 💬 Currently with solid knowledge in web development both client and server side
+- 💬 Actualmente con sólidos conocimientos en desarrollo web tanto del lado cliente como del servidor.
 
-- ☁️ I have a great interest in cloud computing so I am learning **AWS**
+- ☁️ Tengo un gran interés en la computación en la nube, así que estoy aprendiendo **AWS**
 
-- 📫 Do not hesitate to contact me **cristianestiven1111@gmail.com**
+- 📫 No dude en contactarme  -- cristianestiven1111@gmail.com --
 
-- 🏠 Always learning new things in this beautiful world of development
+- 🏠 Siempre aprendiendo cosas nuevas en este hermoso mundo del desarrollo.
 <!--Intro end-->
 
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block;font-size:50px;font-weight:bold;"> ⚡ TECHNOLOGIES ⚡</h2></summary>
+    <summary><h2 style="display: inline-block;font-size:50px;font-weight:bold;"> ⚡ TECNOLOGIAS ⚡</h2></summary>
   </ul>
 </div>
 
