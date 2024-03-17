@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I am currently working as a Full Stack developer.
+- 🔭 I am currently working as a Software developer.
 
 - 🌱 I’m currently learning **DevOps**
 
